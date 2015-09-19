@@ -42,8 +42,7 @@ To claim this, I am signing this object:
 }
 ```
 
-with the key [D47C 16DE 8244 0651 93A8  EEF8 D81F 79DF 7B4B A0FC](https://keybas
-e.io/izulien), yielding the signature:
+with the key [D47C 16DE 8244 0651 93A8  EEF8 D81F 79DF 7B4B A0FC](https://keybase.io/izulien), yielding the signature:
 
 ```
 -----BEGIN PGP MESSAGE-----
@@ -76,8 +75,7 @@ y18ikzkx88lGq7xvqOYv
 
 ```
 
-And finally, I am proving ownership of the github account by posting this as a g
-ist.
+And finally, I am proving ownership of the github account by posting this as a gist.
 
 ### My publicly-auditable identity:
 
